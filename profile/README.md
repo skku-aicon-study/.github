@@ -2,3 +2,4 @@
 
 - [AI 컴퓨팅사고](https://github.com/skku-aicon-study/SKKU-AI-Computing)
 - [문제해결과 컴퓨팅사고](https://github.com/skku-aicon-study/SKKU-Problem-Solving)
+- [동양사상 입문](https://github.com/skku-aicon-study/SKKU-Eastern-Philosophy)
