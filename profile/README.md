@@ -3,7 +3,6 @@
 - 1학기
   - [AI 컴퓨팅사고](https://github.com/skku-aicon-study/SKKU-AI-Computing)
   - [문제해결과 컴퓨팅사고](https://github.com/skku-aicon-study/SKKU-Problem-Solving)
-  - [동양사상 입문](https://github.com/skku-aicon-study/SKKU-Eastern-Philosophy)
 
 - 2학기
   - [AI 프로그래밍기초](https://github.com/skku-aicon-study/SKKU-AI-Programming-basic)
