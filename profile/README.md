@@ -6,4 +6,4 @@
   - [동양사상 입문](https://github.com/skku-aicon-study/SKKU-Eastern-Philosophy)
 
 - 2학기
-  - [AI 프로그래밍입문](https://github.com/skku-aicon-study/SKKU-AI-Programming-basic)
+  - [AI 프로그래밍기초](https://github.com/skku-aicon-study/SKKU-AI-Programming-basic)
