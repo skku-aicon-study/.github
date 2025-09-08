@@ -6,3 +6,4 @@
 
 - 2학기
   - [AI 프로그래밍기초](https://github.com/skku-aicon-study/SKKU-AI-Programming-basic)
+  - [프로그래밍 기초와 실습](https://github.com/skku-aicon-study/SKKU-Programming-Basic-And-Practice)
